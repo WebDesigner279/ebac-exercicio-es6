@@ -1,4 +1,4 @@
-// Array de objetos com nome e nota dos alunos
+// Array de objetos com nome e nota dos alunos.
 const alunos = [
     { nome: "Alice", nota: 7.5 },
     { nome: "Bruno", nota: 5.8 },
